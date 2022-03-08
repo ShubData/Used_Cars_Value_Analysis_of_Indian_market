@@ -16,7 +16,7 @@ import pandas as pd
 # In[4]:
 
 
-cars_df= pd.read_csv(r"C:\Users\SHUBHAM WAGHMARE\Downloads\ML_project_learning\Used_cars_dataset\cardekho_imputated.csv")
+cars_df= pd.read_csv("Used_cars_dataset_imputated.csv")
 
 
 # In[5]:
